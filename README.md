@@ -51,7 +51,7 @@
   <a href="mailto:ambawattaj@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50px"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/chamindu-ambawatta-b62653362/" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/chamindu-ambawatta-b62653362/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50px"/>
   </a>
   <a href="https://www.instagram.com/cj_.______" target="_blank">
