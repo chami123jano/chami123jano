@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **MERN Stack Development**  
 - 🎓 Undergraduate at **IIT – University of Westminster (UOW)**  
 - 💬 Ask me about **Java, Python, and Web Development**  
-- 📫 Reach me at **chami123jano@gmail.com**  
+- 📫 Reach me at **ambawattaj@gmail.com**  
 - ⚡ Fun fact: **I love building smart assistants & solar energy solutions**  
 
 ---
