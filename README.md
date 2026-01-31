@@ -30,7 +30,6 @@
 ## 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chami123jano&theme=tokyonight&show_icons=true" alt="stats" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chami123jano&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
