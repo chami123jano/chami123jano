@@ -82,18 +82,17 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chami123jano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami123jano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chami123jano&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chami123jano&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chami123jano&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chami123jano&theme=tokyonight" alt="Contribution Graph" width="80%"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=chami123jano&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chami123jano&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
