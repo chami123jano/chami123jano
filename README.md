@@ -3,17 +3,29 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm C. J. Ambawatta</h1>
+<<<<<<< HEAD
 <h3 align="center">Computer Science Student @ IIT (University of Westminster) | Software Developer | Game Developer 🎮</h3>
+=======
+<h3 align="center">Undergraduate @ IIT | Aspiring Game Developer 🎮 | Passionate about Coding & Creativity</h3>
+>>>>>>> eca574aa208df41fd41932018a880aa4589db4ce
 
 ---
 
 ## 👨‍💻 About Me  
 
+<<<<<<< HEAD
 - 🎓 BSc Computer Science student at **IIT (University of Westminster)**  
 - 🎮 Building innovative solutions through **Software Development, AI Systems, and Game Development**  
 - 🌱 Specializing in **Java, Python, Web Development, and Unreal Engine**  
 - 💡 Creating projects that blend **programming with creativity** to deliver impactful applications  
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, AI Systems, Game Development**  
+=======
+- 🎓 University student at **IIT (University of Westminster)**  
+- 🎮 Dreaming big: **Becoming a Game Developer**  
+- 🌱 Currently learning **Java, Python, and Web Development (HTML, CSS, JavaScript)**  
+- 💡 Exploring how to combine **programming + creativity** to build games and apps  
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript**  
+>>>>>>> eca574aa208df41fd41932018a880aa4589db4ce
 - 📫 Reach me at **ambawattaj@gmail.com**  
 
 ---
@@ -62,10 +74,17 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
+<<<<<<< HEAD
   <a href="https://mail.google.com/mail/?view=cm&to=ambawattaj@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50px"/>
   </a>
   <a href="https://www.linkedin.com/in/chamindu-ambawatta-7465293a8" target="_blank">
+=======
+  <a href="mailto:ambawattaj@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamindu-ambawatta-b62653362/" target="_blank">
+>>>>>>> eca574aa208df41fd41932018a880aa4589db4ce
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50px"/>
   </a>
   <a href="https://www.instagram.com/cj_.______" target="_blank">
