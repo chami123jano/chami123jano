@@ -58,9 +58,9 @@
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chami123jano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chami123jano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami123jano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami123jano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="175" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chami123jano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chami123jano&theme=tokyonight&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
