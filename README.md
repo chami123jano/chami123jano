@@ -69,18 +69,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chami123jano&theme=tokyonight&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chami123jano&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chami123jano&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chami123jano&theme=tokyonight" alt="Most Used Languages"/>
 </div>
 
 ---
